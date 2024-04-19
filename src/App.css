@@ -5,6 +5,11 @@
   border-radius: 16px;
   box-shadow: 4px 4px white;
   text-align:center;
+  transition: 0.15s all;
+}
+
+.card:hover{
+  box-shadow: 4px 4px solid
 }
 
 .card > h2{
